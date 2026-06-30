@@ -1,0 +1,12 @@
+{
+  "request_id": "REQB65140",
+  "decision": "answered",
+  "priority": {},
+  "eligibility": {
+    "entailed": false,
+    "explanation": "[Not Entailed] Ali is not in the knowledge base."
+  },
+  "assignment": {},
+  "route": {},
+  "message": "Query 'Ali' is NOT ENTAILED by the knowledge base."
+}
